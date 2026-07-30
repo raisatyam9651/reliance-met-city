@@ -244,7 +244,7 @@
                         <span class="stat-label">Team Members</span>
                     </div>
                     <div class="stat-item">
-                        <span class="stat-number counter" data-target="70">0</span>
+                        <span class="stat-number counter" data-target="80">0</span>
                         <span class="stat-label">Client Reviews</span>
                     </div>
                     <div class="stat-item">
