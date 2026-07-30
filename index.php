@@ -21,7 +21,7 @@
     <meta property="og:description" content="Invest in premium residential and industrial plots at Reliance MET City Jhajjar. Developed by Reliance Industries, MET City offers world-class infrastructure.">
     <meta property="og:image" content="assets/banner.webp">
     <meta property="og:url" content="https://metjhajjarplots.com/">
-    <meta name="google-site-verification" content="wuYLWjRj37glHjgesHII8iWRkaVlL2cOfMHnrNQqje8" />
+    <meta name="google-site-verification" content="G4PnZ-tQQFqp-QvHnErgeNsdiZrZwAgk8YY_Rxeut0A" />
 
     <!-- Schema.org for Real Estate & FAQ -->
     <script type="application/ld+json">
