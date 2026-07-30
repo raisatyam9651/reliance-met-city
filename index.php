@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- SEO Meta Tags -->
-    <title>#1 Reliance MET City Jhajjar | Residential Plots</title>
+    <title>Reliance MET City Jhajjar | Residential Plots</title>
     <link rel="icon" type="image/webp" href="assets/icon.jpg">
     <meta name="description"
         content="Invest in premium residential and industrial plots at Reliance MET City Jhajjar. Developed by Reliance Industries, MET City offers world-class infrastructure.">
@@ -17,7 +17,7 @@
     <link rel="canonical" href="https://metjhajjarplots.com/" />
 
     <!-- Open Graph Tags -->
-    <meta property="og:title" content="#1 Reliance MET City Jhajjar | Residential Plots">
+    <meta property="og:title" content="Reliance MET City Jhajjar | Residential Plots">
     <meta property="og:description" content="Invest in premium residential and industrial plots at Reliance MET City Jhajjar. Developed by Reliance Industries, MET City offers world-class infrastructure.">
     <meta property="og:image" content="assets/banner.webp">
     <meta property="og:url" content="https://metjhajjarplots.com/">
