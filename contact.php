@@ -44,7 +44,7 @@
 
                         <div class="contact-info-item">
                             <h4><i class="fas fa-envelope"></i> Email</h4>
-                            <p><a href="mailto:info@metjhajjarplots.com">info@metjhajjarplots.com</a></p>
+                            <p><a href="mailto:info@reliancemetplots.com">info@reliancemetplots.com</a></p>
                         </div>
                         <div class="contact-info-item">
                             <h4><i class="fas fa-phone-alt"></i> Contact</h4>
@@ -57,7 +57,7 @@
                     <form class="luxury-contact-form" action="send-mail.php" method="POST">
                         <!-- FormSubmit Settings -->
                         <input type="hidden" name="_subject" value="New Inquiry: Contact Page Form">
-                        <input type="hidden" name="_next" value="https://metjhajjarplots.com/thank-you">
+                        <input type="hidden" name="_next" value="https://reliancemetplots.com/thank-you">
                         <input type="hidden" name="_template" value="table">
                         <input type="text" name="_honey" style="display:none">
 

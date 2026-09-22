@@ -36,7 +36,7 @@
                     (Haryana), 124105</p>
                 <p><i class="fas fa-phone-alt gold-text"></i> <a href="tel:+917450053004">+91 7450053004</a></p>
                 <p><i class="fas fa-envelope gold-text"></i> <a
-                        href="mailto:info@metjhajjarplots.com">info@metjhajjarplots.com</a></p>
+                        href="mailto:info@reliancemetplots.com">info@reliancemetplots.com</a></p>
             </div>
         </div>
         <div class="footer-bottom text-center">

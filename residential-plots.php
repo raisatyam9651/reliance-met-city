@@ -155,7 +155,7 @@
                             </div>
                             <div class="office-col">
                                 <h4>Email</h4>
-                                <p>info@metjhajjarplots.com</p>
+                                <p>info@reliancemetplots.com</p>
                             </div>
                         </div>
                     </div>
@@ -163,7 +163,7 @@
                         <form class="modern-form-ui" action="send-mail.php" method="POST">
                             <!-- FormSubmit Settings -->
                             <input type="hidden" name="_subject" value="New Inquiry: Residential Plots Page">
-                        <input type="hidden" name="_next" value="https://metjhajjarplots.com/thank-you">
+                        <input type="hidden" name="_next" value="https://reliancemetplots.com/thank-you">
                             <input type="hidden" name="_template" value="table">
                             <input type="text" name="_honey" style="display:none">
 

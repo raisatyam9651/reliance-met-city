@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://metjhajjarplots.com/sitemap.xml
+Sitemap: https://reliancemetplots.com/sitemap.xml
