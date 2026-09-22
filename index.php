@@ -206,7 +206,7 @@
                         <div class="about-breadcrumb">[<span>Overview</span>]</div>
                         <h2 class="about-main-title"> About <span class="gold-text"> Reliance MET City</span> <br></h2>
                         <p class="about-overview-text">
-                            Reliance MET City Jhajjar (Model Economic Township) is a flagship, state-of-the-art greenfield smart city spanning over 8,250 acres in Haryana. Conceived and developed by <a href="https://en.wikipedia.org/wiki/Reliance_Industries" target="_blank" rel="noopener">Reliance Industries Limited</a>, this integrated township seamlessly blends industrial powerhouses, commercial hubs, and serene residential neighborhoods into a single master-planned urban ecosystem.
+                            Reliance MET City Jhajjar (Model Economic Township) is a flagship, state-of-the-art greenfield smart city spanning over 8,250 acres in Haryana. Conceived and developed by <a href="https://en.wikipedia.org/wiki/Reliance_Industries" target="_blank" rel="noopener noreferrer">Reliance Industries Limited</a>, this integrated township seamlessly blends industrial powerhouses, commercial hubs, and serene residential neighborhoods into a single master-planned urban ecosystem.
                         </p>
                         <p class="about-overview-text" style="margin-top: 20px;">
                             Designed to set a new benchmark for modern infrastructure, Reliance MET City features plug-and-play utility networks, wide tree-lined avenues, dedicated industrial sectors, and abundant green open spaces. Strategically positioned along major transit corridors in Delhi NCR, the township provides businesses and residents with rapid access to national highways, freight routes, and international airports—fostering sustainable growth, thriving communities, and long-term value creation.
@@ -984,7 +984,7 @@
                         </div>
                         <div class="home-blog-body">
                             <div class="home-blog-meta">
-                                <span><i class="far fa-calendar-alt"></i> June 19, 2026</span>
+                                <span><i class="far fa-calendar-alt"></i> September 19, 2026</span>
                             </div>
                             <h3>How much land is in Reliance Met City?</h3>
                             <p>Explore the total acreage, master plan zoning, and land division of Reliance Smart City in Jhajjar, Haryana, including residential and industrial sectors.</p>
@@ -1002,7 +1002,7 @@
                         </div>
                         <div class="home-blog-body">
                             <div class="home-blog-meta">
-                                <span><i class="far fa-calendar-alt"></i> June 9, 2026</span>
+                                <span><i class="far fa-calendar-alt"></i> September 9, 2026</span>
                             </div>
                             <h3>What is the plot rate in Reliance Met Jhajjar?</h3>
                             <p>An in-depth breakdown of the latest residential and industrial plot rates, pricing factors, and future valuation projections.</p>
@@ -1020,7 +1020,7 @@
                         </div>
                         <div class="home-blog-body">
                             <div class="home-blog-meta">
-                                <span><i class="far fa-calendar-alt"></i> June 1, 2026</span>
+                                <span><i class="far fa-calendar-alt"></i> September 1, 2026</span>
                             </div>
                             <h3>Which companies are in Reliance Met City?</h3>
                             <p>Explore the directory of multinational brands and domestic giants operating in Reliance Smart City, Jhajjar, including the Japanese Industrial Township cluster.</p>
@@ -1065,7 +1065,7 @@
                                     <div class="faq-icon-circle">+</div>
                                 </div>
                                 <div class="faq-body-modern">
-                                    <p>Reliance MET City is located in Jhajjar district, Haryana, along the KMP Expressway, offering direct proximity to Delhi NCR, Gurugram, and major industrial belts.</p>
+                                    <p>Reliance MET City is located in Jhajjar district, Haryana, along the KMP Expressway, offering direct proximity to Delhi NCR, Gurugram, and major industrial belts. Learn more about <a href="who-is-the-owner-of-reliance-met-city">MET City ownership and background</a>.</p>
                                 </div>
                             </div>
 
@@ -1076,7 +1076,7 @@
                                     <div class="faq-icon-circle">+</div>
                                 </div>
                                 <div class="faq-body-modern">
-                                    <p>The township provides Reliance Industries' master-planned infrastructure, clear land titles, plug-and-play utilities, strategic location advantages, and high capital growth potential for both residential and business buyers.</p>
+                                    <p>The township provides Reliance Industries' master-planned infrastructure, clear land titles, plug-and-play utilities, strategic location advantages, and high capital growth potential. Read our guide on <a href="is-it-good-to-invest-in-reliance-met-city">why investing in Reliance MET City is beneficial</a>.</p>
                                 </div>
                             </div>
 
@@ -1087,7 +1087,7 @@
                                     <div class="faq-icon-circle">+</div>
                                 </div>
                                 <div class="faq-body-modern">
-                                    <p>MET City Jhajjar accommodates a wide range of industries including electronics, automotive components, engineering, logistics, FMCG, footwear, and clean manufacturing.</p>
+                                    <p>MET City Jhajjar accommodates a wide range of industries including electronics, automotive components, engineering, logistics, FMCG, footwear, and clean manufacturing. View our <a href="industrial-plots">industrial plot categories</a> and check <a href="companies-in-reliance-met-city">companies operating in MET City</a>.</p>
                                 </div>
                             </div>
 
@@ -1098,7 +1098,7 @@
                                     <div class="faq-icon-circle">+</div>
                                 </div>
                                 <div class="faq-body-modern">
-                                    <p>Buyers and businesses enjoy wide concrete roads, 24/7 power supply, dedicated water treatment facilities, underground cabling, high-speed fiber optics, and extensive green belts.</p>
+                                    <p>Buyers and businesses enjoy wide concrete roads, 24/7 power supply, dedicated water treatment facilities, underground cabling, high-speed fiber optics, and extensive green belts across all <a href="commercial-plots">commercial</a> and <a href="residential-plots">residential sectors</a>.</p>
                                 </div>
                             </div>
 
@@ -1109,7 +1109,7 @@
                                     <div class="faq-icon-circle">+</div>
                                 </div>
                                 <div class="faq-body-modern">
-                                    <p>The township connects directly to the KMP Expressway, Dwarka Expressway, and major national highways, placing Gurugram just 20 minutes away and IGI Airport within a 45-minute drive.</p>
+                                    <p>The township connects directly to the KMP Expressway, Dwarka Expressway, and major national highways, placing Gurugram just 20 minutes away and IGI Airport within a 45-minute drive. Check current <a href="what-is-the-plot-rate-in-reliance-met-city-jhajjar">plot rates in MET City Jhajjar</a>.</p>
                                 </div>
                             </div>
 
@@ -1120,7 +1120,7 @@
                                     <div class="faq-icon-circle">+</div>
                                 </div>
                                 <div class="faq-body-modern">
-                                    <p>Yes, Reliance MET City offers fully developed, RERA-approved residential plots equipped with internal roads, power, water, and community amenities ready for home construction.</p>
+                                    <p>Yes, Reliance MET City offers fully developed, RERA-approved <a href="residential-plots">residential plots</a> equipped with internal roads, power, water, and community amenities ready for home construction.</p>
                                 </div>
                             </div>
 
@@ -1131,7 +1131,7 @@
                                     <div class="faq-icon-circle">+</div>
                                 </div>
                                 <div class="faq-body-modern">
-                                    <p>Unlike traditional industrial parks, MET City is an integrated, self-sustaining smart township containing residential sectors, commercial zones, educational facilities, and global industrial clusters.</p>
+                                    <p>Unlike traditional industrial parks, MET City is an integrated, self-sustaining smart township containing residential sectors, <a href="commercial-plots">commercial hubs</a>, educational facilities, and global industrial clusters. Learn more <a href="about-us">about MET City vision</a>.</p>
                                 </div>
                             </div>
                         </div>

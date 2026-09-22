@@ -121,7 +121,7 @@
             <div class="container white-text reveal">
                 <span class="luxury-badge">News & Insights</span>
                 <h1 style="font-size: 3.5rem; margin-bottom: 20px;">Our <span class="gold-text">Blog</span></h1>
-                <p style="font-size: 1.2rem; max-width: 800px; margin: 0 auto;">Stay updated with the latest news, investment trends, and development milestones at Reliance MET City.</p>
+                <p style="font-size: 1.2rem; max-width: 800px; margin: 0 auto;">Stay updated with the latest news, investment trends, plot rates, and development milestones at Reliance MET City. Looking for plots? Explore our <a href="industrial-plots" style="color: var(--royal-gold, #d4af37); text-decoration: underline;">Industrial</a>, <a href="commercial-plots" style="color: var(--royal-gold, #d4af37); text-decoration: underline;">Commercial</a>, and <a href="residential-plots" style="color: var(--royal-gold, #d4af37); text-decoration: underline;">Residential</a> offerings or <a href="contact" style="color: var(--royal-gold, #d4af37); text-decoration: underline;">Contact Us</a>.</p>
             </div>
         </section>
 
@@ -136,7 +136,7 @@
                     <div class="blog-content">
                         <div class="blog-meta">
                             <span class="blog-tag">Area & Zoning</span>
-                            <span><i class="far fa-calendar-alt"></i> June 19, 2026</span>
+                            <span><i class="far fa-calendar-alt"></i> September 19, 2026</span>
                         </div>
                         <h3 class="blog-title">How much land is in Reliance Met City?</h3>
                         <p class="blog-excerpt">Explore the total acreage, master plan zoning, and land division of Reliance MET City in Jhajjar, Haryana, including residential and industrial sectors.</p>
@@ -152,7 +152,7 @@
                     <div class="blog-content">
                         <div class="blog-meta">
                             <span class="blog-tag">Pricing</span>
-                            <span><i class="far fa-calendar-alt"></i> June 9, 2026</span>
+                            <span><i class="far fa-calendar-alt"></i> September 9, 2026</span>
                         </div>
                         <h3 class="blog-title">What is the plot rate in Reliance Met City Jhajjar?</h3>
                         <p class="blog-excerpt">Know the latest plot rate in Reliance MET City Jhajjar, including pricing trends, location benefits, investment potential, and industrial plot details.</p>
@@ -168,7 +168,7 @@
                     <div class="blog-content">
                         <div class="blog-meta">
                             <span class="blog-tag">Industries</span>
-                            <span><i class="far fa-calendar-alt"></i> June 1, 2026</span>
+                            <span><i class="far fa-calendar-alt"></i> September 1, 2026</span>
                         </div>
                         <h3 class="blog-title">Which companies are in Reliance Met City?</h3>
                         <p class="blog-excerpt">Explore the directory of multinational brands and domestic giants operating in Reliance MET City, Jhajjar, including the Japanese Industrial Township cluster.</p>
@@ -184,7 +184,7 @@
                     <div class="blog-content">
                         <div class="blog-meta">
                             <span class="blog-tag">Ownership</span>
-                            <span><i class="far fa-calendar-alt"></i> May 22, 2026</span>
+                            <span><i class="far fa-calendar-alt"></i> August 22, 2026</span>
                         </div>
                         <h3 class="blog-title">Who is the owner of Reliance Met City?</h3>
                         <p class="blog-excerpt">Learn who owns Reliance MET City, India’s leading smart township project in Jhajjar, developed to support industrial growth and modern business infrastructure.</p>
@@ -200,7 +200,7 @@
                     <div class="blog-content">
                         <div class="blog-meta">
                             <span class="blog-tag">Investment</span>
-                            <span><i class="far fa-calendar-alt"></i> May 11, 2026</span>
+                            <span><i class="far fa-calendar-alt"></i> August 11, 2026</span>
                         </div>
                         <h3 class="blog-title">Is It Good to Invest in Reliance MET City?</h3>
                         <p class="blog-excerpt">Explore whether it is good to invest in Reliance MET City, including location benefits, growth potential, risks, and expert insights for smart real estate investment.</p>

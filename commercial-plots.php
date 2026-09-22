@@ -44,10 +44,13 @@
                         <div class="about-breadcrumb">[<span>Commercial</span>]</div>
                         <h2 class="about-main-title">A Hub for <span class="gold-text">Retail</span> & Business</h2>
                         <p class="about-overview-text">
-                            MET City commercial plots are strategically located to serve a growing community of residents and industrial workers. These plots are ideal for SCO (Shop-cum-Office), retail hubs, and corporate office complexes.
+                            Reliance MET City commercial plots are strategically situated along high-traffic arterial roads to cater to a rapidly expanding ecosystem of residential inhabitants, corporate executives, and industrial workforce across Jhajjar NCR. These prime plots support flexible SCO (Shop-cum-Office) formats, multi-story retail plazas, financial branches, and corporate office developments.
                         </p>
                         <p class="about-overview-text" style="margin-top: 20px;">
-                            With a focus on massive footfall and high ROI potential, these spaces are developed with premium infrastructure, ample parking, and excellent connectivity to major roads, ensuring your business stays at the center of the action.
+                            Designed for high footfall and robust rental yields, commercial plots in MET City benefit from wide boulevard frontage, dedicated visitor parking, underground power utilities, and proximity to both <a href="industrial-plots">industrial clusters</a> and <a href="residential-plots">residential townships</a>.
+                        </p>
+                        <p class="about-overview-text" style="margin-top: 20px;">
+                            Learn more about <a href="is-it-good-to-invest-in-reliance-met-city">why commercial investment in MET City offers strong returns</a> and check current <a href="what-is-the-plot-rate-in-reliance-met-city-jhajjar">commercial plot rates in MET City Jhajjar</a>.
                         </p>
                     </div>
                     <div class="about-image-wrapper reveal">

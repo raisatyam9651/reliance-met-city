@@ -44,10 +44,13 @@
                         <div class="about-breadcrumb">[<span>Infrastructure</span>]</div>
                         <h2 class="about-main-title">A Hub for <span class="gold-text">Global</span> Industry</h2>
                         <p class="about-overview-text">
-                            Model Economic Township offers world-class industrial plots designed to support large-scale manufacturing and logistics. Strategically positioned near the KMP Expressway, the township provides seamless connectivity to Delhi, Gurugram, and the larger NCR region.
+                            Model Economic Township offers world-class, plug-and-play industrial plots designed to support large-scale manufacturing, assembly, and modern warehousing. Strategically positioned near the KMP Expressway and DMIC freight corridors in Jhajjar, Haryana, MET City provides seamless connectivity to Delhi, Gurugram, and the wider National Capital Region.
                         </p>
                         <p class="about-overview-text" style="margin-top: 20px;">
-                            Industrialists benefit from robust infrastructure including dedicated power substations, gas pipelines, water treatment plants, and wide arterial roads designed for heavy vehicle movement. It is an ideal destination for sustainable business growth.
+                            Home to major global conglomerates like Panasonic, Denso, and Nihon Kohden, MET City features dedicated power substations (220kV/66kV), PNG gas pipelines, CETP water treatment systems, and 45-meter wide arterial roads for heavy container movement. Discover which <a href="companies-in-reliance-met-city">multinational companies operate in MET City</a> or check the latest <a href="what-is-the-plot-rate-in-reliance-met-city-jhajjar">industrial plot rates in MET City Jhajjar</a>.
+                        </p>
+                        <p class="about-overview-text" style="margin-top: 20px;">
+                            Industrial investors can also explore integrated <a href="commercial-plots">commercial plots</a> for administrative offices and executive <a href="residential-plots">residential plots</a> for workforce housing within the township.
                         </p>
                     </div>
                     <div class="about-image-wrapper reveal">

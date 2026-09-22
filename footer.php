@@ -14,10 +14,11 @@
             <div class="footer-links">
                 <h4>Quick Links</h4>
                 <ul>
-                    <li><a href="#hero">Home</a></li>
-                    <li><a href="#who-we-are">About Us</a></li>
-                    <li><a href="#property-listing">Visual Gallery</a></li>
-                    <li><a href="#pricing">Plot Pricing</a></li>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="about-us">About Us</a></li>
+                    <li><a href="/#property-listing">Visual Gallery</a></li>
+                    <li><a href="/#pricing">Plot Pricing</a></li>
+                    <li><a href="blog">Blog</a></li>
                 </ul>
             </div>
             <div class="footer-links">
@@ -39,7 +40,7 @@
             </div>
         </div>
         <div class="footer-bottom text-center">
-            <p>&copy; 2025 Reliance MET City Plots. Commercial & Residential Township.</p>
+            <p>&copy; 2026 Reliance MET City Plots. Commercial & Residential Township.</p>
         </div>
     </footer>
 

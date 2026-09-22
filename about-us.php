@@ -44,13 +44,17 @@
                         <div class="about-breadcrumb">[<span>Our Story</span>]</div>
                         <h2 class="about-main-title">A Vision by <br><span class="gold-text">Reliance Industries</span></h2>
                         <p class="about-overview-text">
-                            Model Economic Township is a flagship project of <strong>Reliance Industries Limited</strong>, designed to be one of India's most advanced integrated economic hubs. Located strategically in Jhajjar, Haryana, it serves as a critical node for industrial growth and premium residential living in the National Capital Region.
+                            Model Economic Township (MET City) is a 100% subsidiary flagship project of <a href="https://en.wikipedia.org/wiki/Reliance_Industries" target="_blank" rel="noopener noreferrer">Reliance Industries Limited</a>, designed to be one of India's most advanced integrated greenfield smart cities. Located strategically in <a href="https://en.wikipedia.org/wiki/Jhajjar_district" target="_blank" rel="noopener noreferrer">Jhajjar district</a>, Haryana, MET City serves as a central engine for industrial growth and luxury residential living within the National Capital Region (NCR).
                         </p>
                         <p class="about-overview-text" style="margin-top: 20px;">
-                            Spanning thousands of acres, the township is engineered for the future—offering seamless connectivity to the KMP Expressway, robust 24/7 utility support, and a meticulously planned environment that balances heavy industry with serene luxury living.
+                            Spanning over <a href="how-much-land-is-in-reliance-met-city">8,250+ acres of land</a>, the township is engineered to world-class standards—offering plug-and-play utilities, seamless connectivity via the Kundli-Manesar-Palwal (KMP) Expressway, and specialized sectors for <a href="industrial-plots">industrial manufacturing</a>, <a href="commercial-plots">commercial business hubs</a>, and <a href="residential-plots">gated residential developments</a>.
                         </p>
-                        <div class="about-cta-wrapper" style="margin-top: 30px;">
+                        <p class="about-overview-text" style="margin-top: 20px;">
+                            Under the stewardship of <a href="who-is-the-owner-of-reliance-met-city">Reliance MET City management</a>, the township hosts major multinational corporations including Panasonic, Denso, and Nihon Kohden, establishing itself as India's premier Japanese Industrial Township and a preferred global investment hub.
+                        </p>
+                        <div class="about-cta-wrapper" style="margin-top: 30px; display: flex; gap: 15px; flex-wrap: wrap;">
                             <a href="contact" class="btn-gold-sm">Partner With Us</a>
+                            <a href="how-much-land-is-in-reliance-met-city" class="btn-gold-sm" style="background: transparent; border: 1px solid var(--royal-gold); color: #fff;">Explore Land Details</a>
                         </div>
                     </div>
                     <div class="about-image-wrapper reveal">

@@ -1,27 +1,46 @@
 <?php
-// router.php
-if (preg_match('/\.(?:png|jpg|jpeg|gif|webp|css|js|xml|txt)$/', $_SERVER["REQUEST_URI"])) {
-    return false;    // serve the requested resource as-is.
+// router.php - Local PHP server router for clean URLs
+
+$requestUri = $_SERVER["REQUEST_URI"];
+$parsedUrl = parse_url($requestUri);
+$path = $parsedUrl['path'] ?? '/';
+
+// 1. Serve static files directly
+if (preg_match('/\.(?:png|jpg|jpeg|gif|webp|css|js|xml|txt|ico|svg|woff2?|ttf|eot)$/i', $path)) {
+    return false;
 }
 
-$path = parse_url($_SERVER["REQUEST_URI"], PHP_URL_PATH);
+// 2. Remove trailing slashes (except root '/')
+if ($path !== '/' && substr($path, -1) === '/') {
+    $path = rtrim($path, '/');
+}
+
+// 3. Handle common aliases (e.g. /blogs -> /blog.php)
+if ($path === '/blogs') {
+    $path = '/blog.php';
+}
+
 $file = __DIR__ . $path;
 
+// 4. Resolve directories or files
 if (is_dir($file)) {
     if (file_exists($file . '/index.php')) {
         $file .= '/index.php';
-    } else {
-        $file .= '/index.html'; // Fallback
+    } elseif (file_exists($file . '/index.html')) {
+        $file .= '/index.html';
     }
-} else if (!file_exists($file)) {
-    $file .= '.php';
+} elseif (!file_exists($file)) {
+    if (file_exists($file . '.php')) {
+        $file .= '.php';
+    }
 }
 
-if (file_exists($file)) {
+// 5. Include target file or 404
+if (file_exists($file) && !is_dir($file)) {
     include $file;
 } else {
     http_response_code(404);
-    echo "404 Not Found";
+    echo "<!DOCTYPE html><html><head><title>404 Not Found</title></head><body><h1>404 Not Found</h1><p>The page requested <code>" . htmlspecialchars($path) . "</code> was not found on this server.</p><p><a href='/'>Go to Home</a></p></body></html>";
 }
 ?>
 

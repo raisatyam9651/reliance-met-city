@@ -33,8 +33,7 @@
                 <div class="contact-hero-content reveal">
                     <h1>You Have <span class="gold-text">Questions</span>,<br>We Have <span
                             class="gold-text">Answers</span></h1>
-                    <p>Discover experiences you won't find anywhere else — thoughtfully designed to immerse you in the
-                        heart of the destination. Soulful stories waiting to be lived.</p>
+                    <p>Connect with our expert advisory team for guided site visits, inventory availability, allotment procedures, and custom consultations across <a href="industrial-plots">industrial</a>, <a href="commercial-plots">commercial</a>, and <a href="residential-plots">residential plots</a> at Reliance MET City Jhajjar. Learn more <a href="about-us">about MET City</a> or check current <a href="what-is-the-plot-rate-in-reliance-met-city-jhajjar">plot rates</a>.</p>
 
                     <div class="contact-info-grid">
                         <div class="contact-info-item">

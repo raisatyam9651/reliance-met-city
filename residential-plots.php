@@ -44,10 +44,13 @@
                         <div class="about-breadcrumb">[<span>Lifestyle</span>]</div>
                         <h2 class="about-main-title">Modern <span class="gold-text">Living</span> Redefined</h2>
                         <p class="about-overview-text">
-                            Residential plots at Model Economic Township provide an unparalleled opportunity to build a custom home within a world-class integrated township. Each sector is planned with a focus on green spaces, wide roads, and modern infrastructure.
+                            Residential plots at Model Economic Township (MET City) provide an unparalleled opportunity to build a custom luxury villa or independent home within a master-planned, RERA-approved greenfield smart city. Each residential sector features landscaped theme parks, underground electric grids, clubhouses, and 18-meter wide tree-lined avenues.
                         </p>
                         <p class="about-overview-text" style="margin-top: 20px;">
-                            Being part of a Reliance Industries project, residents benefit from premium security, uninterrupted utilities, and proximity to major economic hubs, ensuring both a high quality of life and exceptional investment appreciation.
+                            Backed by the legacy of Reliance Industries Limited, residents enjoy 3-tier gated security, 24/7 power backup, clean water infrastructure, and quick proximity to both <a href="commercial-plots">commercial retail plazas</a> and <a href="industrial-plots">industrial business corridors</a>.
+                        </p>
+                        <p class="about-overview-text" style="margin-top: 20px;">
+                            Check current <a href="what-is-the-plot-rate-in-reliance-met-city-jhajjar">residential plot rates in MET City Jhajjar</a> or explore our analysis on <a href="is-it-good-to-invest-in-reliance-met-city">why investing in MET City residential plots offers excellent appreciation</a>.
                         </p>
                     </div>
                     <div class="about-image-wrapper reveal">
