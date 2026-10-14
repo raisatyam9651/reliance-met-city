@@ -22,6 +22,7 @@
     <meta property="og:image" content="assets/banner.webp">
     <meta property="og:url" content="https://reliancemetplots.com/">
     <meta name="google-site-verification" content="G4PnZ-tQQFqp-QvHnErgeNsdiZrZwAgk8YY_Rxeut0A" />
+    <meta name="google-site-verification" content="lIS0py39Yn5__tVNYluETmntFnj1ZYgLjQREWQG0-7o" />
 
     <!-- Schema.org for Real Estate & FAQ -->
     <script type="application/ld+json">
