@@ -158,10 +158,10 @@
             <div class="hero-bg-parallax"></div>
             <div class="container hero-grid">
                 <div class="hero-content reveal">
-                    <span class="luxury-badge">Integrated Greenfield Township</span>
-                    <h1>Build Your Future at <span class="gold-text">Reliance MET City</span> Jhajjar</h1>
-                    <p>Experience a world-class mega township engineered for modern living and strategic enterprise growth, backed by the unmatched legacy of Reliance Industries.</p>
-                    <a href="#pricing" class="btn-gold">Explore Plots</a>
+                    <span class="luxury-badge">RERA Approved • 8,250 Acres Mega Township</span>
+                    <h1>Invest in <span class="gold-text">Reliance MET City</span> Jhajjar</h1>
+                    <p>Prime Residential, Industrial & Commercial freehold plots in Delhi NCR's fastest-growing smart township. Developed by Reliance Industries with plug-and-play world-class infrastructure and immediate registry.</p>
+                    <a href="#pricing" class="btn-gold">Explore Plot Sizes</a>
                 </div>
 
                 <div class="hero-form-container reveal">
@@ -182,7 +182,7 @@
                             <input type="tel" name="phone" placeholder="Phone Number" required>
                         </div>
 
-                        <button type="submit" class="btn-gold full-width">Book Now!</button>
+                        <button type="submit" class="btn-gold full-width">Book Site Visit</button>
                     </form>
                     
                 </div>
@@ -207,10 +207,10 @@
                         <div class="about-breadcrumb">[<span>Overview</span>]</div>
                         <h2 class="about-main-title"> About <span class="gold-text"> Reliance MET City</span> <br></h2>
                         <p class="about-overview-text">
-                            Reliance MET City Jhajjar (Model Economic Township) is a flagship, state-of-the-art greenfield smart city spanning over 8,250 acres in Haryana. Conceived and developed by <a href="https://en.wikipedia.org/wiki/Reliance_Industries" target="_blank" rel="noopener noreferrer">Reliance Industries Limited</a>, this integrated township seamlessly blends industrial powerhouses, commercial hubs, and serene residential neighborhoods into a single master-planned urban ecosystem.
+                            Reliance MET City Jhajjar (Model Economic Township) is North India's premier integrated greenfield smart city spanning over 8,250 acres in Haryana. Conceived and developed by <a href="https://en.wikipedia.org/wiki/Reliance_Industries" target="_blank" rel="noopener noreferrer">Reliance Industries Limited</a>, this visionary township blends global industrial powerhouses, commercial business districts, and tranquil residential sectors into a master-planned urban ecosystem.
                         </p>
                         <p class="about-overview-text" style="margin-top: 20px;">
-                            Designed to set a new benchmark for modern infrastructure, Reliance MET City features plug-and-play utility networks, wide tree-lined avenues, dedicated industrial sectors, and abundant green open spaces. Strategically positioned along major transit corridors in Delhi NCR, the township provides businesses and residents with rapid access to national highways, freight routes, and international airports—fostering sustainable growth, thriving communities, and long-term value creation.
+                            Engineered to set a new global benchmark for smart infrastructure, Reliance MET City features underground 220kV power distribution, 24/7 dedicated water supply, wide multi-lane arterial roads, and extensive green open zones. Strategically positioned along the KMP Expressway with seamless access to Gurugram, Dwarka Expressway, and IGI Airport, it provides homeowners and enterprises with unprecedented growth potential and enduring asset value.
                         </p>
                         <div class="about-cta-wrapper" style="margin-top: 30px;">
                             <a href="about-us" class="btn-gold-sm">Know More</a>
@@ -230,7 +230,7 @@
                 <!-- Middle Section: Impact Text (Residential) -->
                 <div class="impact-text-wrapper reveal">
                     <h3 class="impact-text">
-                        <span class="text-grey">Secure your piece of a thriving smart city.</span> From tailored residential spaces to industrial hubs, invest in a destination crafted for enduring success.</span>
+                        <span class="text-grey">Own a prime plot in Delhi NCR's most prestigious smart city.</span> From bespoke residential enclaves to world-class industrial hubs, invest in unmatched growth and peace of mind.
                     </h3>
                 </div>
 
@@ -238,19 +238,19 @@
                 <div class="new-stats-row reveal">
                     <div class="stat-item">
                         <span class="stat-number counter" data-target="8250">0</span>
-                        <span class="stat-label">Acres Land</span>
+                        <span class="stat-label">Acres Mega Township</span>
                     </div>
                     <div class="stat-item">
-                        <span class="stat-number counter" data-target="10">0</span>
-                        <span class="stat-label">Team Members</span>
+                        <span class="stat-number counter" data-target="500">0</span>
+                        <span class="stat-label">Global & Domestic Brands</span>
                     </div>
                     <div class="stat-item">
-                        <span class="stat-number counter" data-target="80">0</span>
-                        <span class="stat-label">Client Reviews</span>
+                        <span class="stat-number counter" data-target="25000">0</span>
+                        <span class="stat-label">Workforce & Jobs</span>
                     </div>
                     <div class="stat-item">
-                        <span class="stat-number counter" data-target="100">0</span>
-                        <span class="stat-label">Plots Sold</span>
+                        <span class="stat-number counter" data-target="1500">0</span>
+                        <span class="stat-label">Satisfied Plot Buyers</span>
                     </div>
                 </div>
             </div>
@@ -331,11 +331,11 @@
                         <div class="service-content">
                             <div class="service-icon"><i class="fas fa-home"></i></div>
                             <h3>Residential Plots</h3>
-                            <p>Design your custom residence within a secure, eco-friendly gated enclave equipped with lifestyle amenities and landscaped parks.</p>
+                            <p>Build your dream home in elite gated enclaves offering 100 to 500+ sq. yd freehold plots with lush green parks, clubhouses, and modern township amenities.</p>
                             <ul class="service-features">
-                                <li><i class="fas fa-check"></i> Gated Residential Enclaves</li>
-                                <li><i class="fas fa-check"></i> 24/7 Multi-Tier Security</li>
-                                <li><i class="fas fa-check"></i> Landscaped Open Spaces</li>
+                                <li><i class="fas fa-check"></i> RERA-Approved Freehold Plots</li>
+                                <li><i class="fas fa-check"></i> 24/7 Gated Multi-Tier Security</li>
+                                <li><i class="fas fa-check"></i> Ready for Immediate Registry</li>
                             </ul>
                             <a href="residential-plots" class="btn-service">View More <i class="fas fa-arrow-right"></i></a>
                         </div>
@@ -347,11 +347,11 @@
                         <div class="service-content">
                             <div class="service-icon"><i class="fas fa-industry"></i></div>
                             <h3>Industrial Plots</h3>
-                            <p>Plug-and-play industrial land parcels equipped with heavy power lines, gas pipelines, and direct express highway access.</p>
+                            <p>Plug-and-play industrial land parcels from 0.5 acre to 50+ acres equipped with dedicated 220kV power, piped gas lines, and direct KMP expressway connectivity.</p>
                             <ul class="service-features">
                                 <li><i class="fas fa-check"></i> Direct KMP Expressway Link</li>
-                                <li><i class="fas fa-check"></i> Uninterrupted Utility Grid</li>
-                                <li><i class="fas fa-check"></i> Scalable Industrial Zoning</li>
+                                <li><i class="fas fa-check"></i> Japanese Industrial Cluster (JIT)</li>
+                                <li><i class="fas fa-check"></i> Heavy-Duty Utility & Power Grid</li>
                             </ul>
                             <a href="industrial-plots" class="btn-service">View More <i class="fas fa-arrow-right"></i></a>
                         </div>
@@ -363,11 +363,11 @@
                         <div class="service-content">
                             <div class="service-icon"><i class="fas fa-building"></i></div>
                             <h3>Commercial Plots</h3>
-                            <p>Prime commercial and SCO plot locations designed for retail centers, corporate headquarters, and high-footfall business hubs.</p>
+                            <p>High-visibility Shop-Cum-Office (SCO) and retail land parcels designed to cater to high footfall from over 100,000+ residents and enterprise workforce.</p>
                             <ul class="service-features">
-                                <li><i class="fas fa-check"></i> High-Visibility Corridors</li>
-                                <li><i class="fas fa-check"></i> Premium Commercial Zoning</li>
-                                <li><i class="fas fa-check"></i> Dynamic Footfall Potential</li>
+                                <li><i class="fas fa-check"></i> Prime Arterial Road Frontage</li>
+                                <li><i class="fas fa-check"></i> High-Footfall Commercial SCO Zoning</li>
+                                <li><i class="fas fa-check"></i> Multi-Story Development Potential</li>
                             </ul>
                             <a href="commercial-plots" class="btn-service">View More <i class="fas fa-arrow-right"></i></a>
                         </div>
@@ -563,32 +563,32 @@
                         <div class="choose-card reveal">
                             <div class="choose-icon-box teal">🗺️</div>
                             <div class="choose-content">
-                                <h3>Prime Location & Transit Connectivity</h3>
-                                <p>Situated strategically in Jhajjar, Haryana, Reliance MET City offers effortless access to Delhi NCR, Gurugram, and key national transport corridors for efficient travel and supply chain management.</p>
+                                <h3>Strategic Tri-Corridor Location</h3>
+                                <p>Directly connected to KMP Expressway, Dwarka Expressway, and NH-48. Enjoy swift 20-minute access to Gurugram and under 45 minutes to IGI Airport Delhi.</p>
                             </div>
                         </div>
                         <!-- Card 2 -->
                         <div class="choose-card reveal">
                             <div class="choose-icon-box purple">🏢️</div>
                             <div class="choose-content">
-                                <h3>Self-Sustained Master Planning</h3>
-                                <p>Combining industrial zones, residential neighborhoods, and retail centers into one unified township, MET City ensures complete work-live-play convenience for businesses and families alike.</p>
+                                <h3>Reliance Trust & 100% Clear Titles</h3>
+                                <p>Backed by Reliance Industries Limited. Fully HRERA-approved development featuring freehold registry, transparent documentation, and approved bank loan facilities.</p>
                             </div>
                         </div>
                         <!-- Card 3 -->
                         <div class="choose-card reveal">
                             <div class="choose-icon-box red">⚡</div>
                             <div class="choose-content">
-                                <h3>Next-Generation Infrastructure</h3>
-                                <p>Engineered with underground power utility networks, high-capacity water treatment plants, digital connectivity, and storm-water management systems for hassle-free operations.</p>
+                                <h3>Plug-and-Play Smart Infrastructure</h3>
+                                <p>Engineered with underground 220kV power substations, round-the-clock water filtration, optical fiber connectivity, and storm-water drainage for zero-downtime living.</p>
                             </div>
                         </div>
                         <!-- Card 4 -->
                         <div class="choose-card reveal">
                             <div class="choose-icon-box green">✈️</div>
                             <div class="choose-content">
-                                <h3>Rapid International Access</h3>
-                                <p>Conveniently located near Indira Gandhi International Airport (DEL), providing seamless international travel for corporate executives and global logistics movement.</p>
+                                <h3>High Capital Appreciation Hub</h3>
+                                <p>Surrounded by over 500+ global brands and the Japanese Industrial Township (JIT), ensuring high rental yields, job creation, and exponential land valuation growth.</p>
                             </div>
                         </div>
                     </div>
@@ -678,38 +678,38 @@
                     <!-- Fact 1 -->
                     <div class="fact-card">
                         <div class="fact-icon-box"><i class="fas fa-id-card"></i></div>
-                        <h4>Rera no DST</h4>
-                        <p>523-2021</p>
+                        <h4>HRERA Approved</h4>
+                        <p>Reg. No. HRERA-PKL-JJR-523-2021</p>
                     </div>
                     <!-- Fact 2 -->
                     <div class="fact-card">
                         <div class="fact-icon-box"><i class="fas fa-indian-rupee-sign"></i></div>
-                        <h4>Price</h4>
-                        <p>According to Requirements</p>
+                        <h4>Plot Pricing</h4>
+                        <p>₹76,000/- Per Sq. Yd Onwards</p>
                     </div>
                     <!-- Fact 3 -->
                     <div class="fact-card">
                         <div class="fact-icon-box"><i class="fas fa-building"></i></div>
-                        <h4>Type</h4>
-                        <p>Industry, Commercial, SCO, Residential, Flats</p>
+                        <h4>Development Types</h4>
+                        <p>Residential, Industrial & Commercial SCO</p>
                     </div>
                     <!-- Fact 4 -->
                     <div class="fact-card">
                         <div class="fact-icon-box"><i class="fas fa-ruler-combined"></i></div>
-                        <h4>Residential Size</h4>
-                        <p>75 to 180 sq yard</p>
+                        <h4>Plot Configurations</h4>
+                        <p>100 to 500+ Sq. Yards</p>
                     </div>
                     <!-- Fact 5 -->
                     <div class="fact-card">
                         <div class="fact-icon-box"><i class="fas fa-map-location-dot"></i></div>
-                        <h4>Location</h4>
-                        <p><a href="how-much-land-is-in-reliance-met-city">Reliance MET City</a>, Jhajjar (Haryana)</p>
+                        <h4>Prime Location</h4>
+                        <p><a href="how-much-land-is-in-reliance-met-city">Sector 8 & 3, MET City</a>, Jhajjar (NCR)</p>
                     </div>
                     <!-- Fact 6 -->
                     <div class="fact-card">
                         <div class="fact-icon-box"><i class="fas fa-house-circle-check"></i></div>
-                        <h4>Status</h4>
-                        <p>Ready For Possession</p>
+                        <h4>Possession Status</h4>
+                        <p>Ready Possession & Immediate Registry</p>
                     </div>
                 </div>
             </div>
