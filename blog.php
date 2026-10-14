@@ -126,88 +126,13 @@
         </section>
 
         <!-- Blog Grid -->
-        <section class="bg-light">
-            <div class="container blog-grid">
-                <!-- Blog Post: Land Area in Reliance MET City -->
-                <article class="blog-card reveal">
-                    <div class="blog-img-wrapper">
-                        <img src="assets/reliance_met_sector_3_gate.jpg" alt="How much land is in Reliance Met City">
-                    </div>
-                    <div class="blog-content">
-                        <div class="blog-meta">
-                            <span class="blog-tag">Area & Zoning</span>
-                            <span><i class="far fa-calendar-alt"></i> September 19, 2026</span>
-                        </div>
-                        <h3 class="blog-title">How much land is in Reliance Met City?</h3>
-                        <p class="blog-excerpt">Explore the total acreage, master plan zoning, and land division of Reliance MET City in Jhajjar, Haryana, including residential and industrial sectors.</p>
-                        <a href="how-much-land-is-in-reliance-met-city" class="read-more">Read Full Article <i class="fas fa-arrow-right"></i></a>
-                    </div>
-                </article>
-
-                <!-- Blog Post: Plot Rate in Reliance Met City Jhajjar -->
-                <article class="blog-card reveal">
-                    <div class="blog-img-wrapper">
-                        <img src="assets/reliance_met_industrial_road.jpg" alt="Plot Rate in Reliance Met City Jhajjar">
-                    </div>
-                    <div class="blog-content">
-                        <div class="blog-meta">
-                            <span class="blog-tag">Pricing</span>
-                            <span><i class="far fa-calendar-alt"></i> September 9, 2026</span>
-                        </div>
-                        <h3 class="blog-title">What is the plot rate in Reliance Met City Jhajjar?</h3>
-                        <p class="blog-excerpt">Know the latest plot rate in Reliance MET City Jhajjar, including pricing trends, location benefits, investment potential, and industrial plot details.</p>
-                        <a href="what-is-the-plot-rate-in-reliance-met-city-jhajjar" class="read-more">Read Full Article <i class="fas fa-arrow-right"></i></a>
-                    </div>
-                </article>
-
-                <!-- Blog Post: Companies in Reliance MET City -->
-                <article class="blog-card reveal">
-                    <div class="blog-img-wrapper">
-                        <img src="assets/reliance_met_industrial.png" alt="Companies in Reliance Met City">
-                    </div>
-                    <div class="blog-content">
-                        <div class="blog-meta">
-                            <span class="blog-tag">Industries</span>
-                            <span><i class="far fa-calendar-alt"></i> September 1, 2026</span>
-                        </div>
-                        <h3 class="blog-title">Which companies are in Reliance Met City?</h3>
-                        <p class="blog-excerpt">Explore the directory of multinational brands and domestic giants operating in Reliance MET City, Jhajjar, including the Japanese Industrial Township cluster.</p>
-                        <a href="companies-in-reliance-met-city" class="read-more">Read Full Article <i class="fas fa-arrow-right"></i></a>
-                    </div>
-                </article>
-
-                <!-- Blog Post: Owner of Reliance MET City -->
-                <article class="blog-card reveal">
-                    <div class="blog-img-wrapper">
-                        <img src="assets/reliance_met_gate.jpg" alt="Owner of Reliance MET City">
-                    </div>
-                    <div class="blog-content">
-                        <div class="blog-meta">
-                            <span class="blog-tag">Ownership</span>
-                            <span><i class="far fa-calendar-alt"></i> August 22, 2026</span>
-                        </div>
-                        <h3 class="blog-title">Who is the owner of Reliance Met City?</h3>
-                        <p class="blog-excerpt">Learn who owns Reliance MET City, India’s leading smart township project in Jhajjar, developed to support industrial growth and modern business infrastructure.</p>
-                        <a href="who-is-the-owner-of-reliance-met-city" class="read-more">Read Full Article <i class="fas fa-arrow-right"></i></a>
-                    </div>
-                </article>
-
-                <!-- Blog Post New -->
-                <article class="blog-card reveal">
-                    <div class="blog-img-wrapper">
-                        <img src="assets/reliance city.webp" alt="Invest in MET City">
-                    </div>
-                    <div class="blog-content">
-                        <div class="blog-meta">
-                            <span class="blog-tag">Investment</span>
-                            <span><i class="far fa-calendar-alt"></i> August 11, 2026</span>
-                        </div>
-                        <h3 class="blog-title">Is It Good to Invest in Reliance MET City?</h3>
-                        <p class="blog-excerpt">Explore whether it is good to invest in Reliance MET City, including location benefits, growth potential, risks, and expert insights for smart real estate investment.</p>
-                        <a href="is-it-good-to-invest-in-reliance-met-city" class="read-more">Read Full Article <i class="fas fa-arrow-right"></i></a>
-                    </div>
-                </article>
-
+        <section class="bg-light" style="padding: 100px 0;">
+            <div class="container text-center">
+                <div style="max-width: 600px; margin: 0 auto; padding: 40px 20px;">
+                    <i class="far fa-newspaper" style="font-size: 3.5rem; color: var(--royal-gold, #d4af37); margin-bottom: 20px; display: inline-block;"></i>
+                    <h2 style="font-size: 1.8rem; margin-bottom: 12px; color: #222;">No Blogs Available</h2>
+                    <p style="color: #666; font-size: 1.05rem; line-height: 1.6;">There are currently no blog articles published. Please check back later for updates and insights.</p>
+                </div>
             </div>
         </section>
     </main>
