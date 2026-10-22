@@ -15,14 +15,31 @@ if ($path !== '/' && substr($path, -1) === '/') {
     $path = rtrim($path, '/');
 }
 
-// 3. Handle common aliases (e.g. /blogs -> /blog.php)
+// 3. 301 Redirects for Deleted Blogs
+$redirectUrls = [
+    '/who-is-the-owner-of-reliance-met-city',
+    '/who-is-the-owner-of-reliance-met-city.php',
+    '/what-is-the-plot-rate-in-reliance-met-city-jhajjar',
+    '/what-is-the-plot-rate-in-reliance-met-city-jhajjar.php',
+    '/companies-in-reliance-met-city',
+    '/companies-in-reliance-met-city.php',
+    '/how-much-land-is-in-reliance-met-city',
+    '/how-much-land-is-in-reliance-met-city.php',
+];
+
+if (in_array($path, $redirectUrls, true)) {
+    header("Location: https://reliancecityplots.in/blog/", true, 301);
+    exit;
+}
+
+// 4. Handle common aliases (e.g. /blogs -> /blog.php)
 if ($path === '/blogs') {
     $path = '/blog.php';
 }
 
 $file = __DIR__ . $path;
 
-// 4. Resolve directories or files
+// 5. Resolve directories or files
 if (is_dir($file)) {
     if (file_exists($file . '/index.php')) {
         $file .= '/index.php';
@@ -35,7 +52,7 @@ if (is_dir($file)) {
     }
 }
 
-// 5. Include target file or 404
+// 6. Include target file or 404
 if (file_exists($file) && !is_dir($file)) {
     include $file;
 } else {
@@ -43,4 +60,3 @@ if (file_exists($file) && !is_dir($file)) {
     echo "<!DOCTYPE html><html><head><title>404 Not Found</title></head><body><h1>404 Not Found</h1><p>The page requested <code>" . htmlspecialchars($path) . "</code> was not found on this server.</p><p><a href='/'>Go to Home</a></p></body></html>";
 }
 ?>
-

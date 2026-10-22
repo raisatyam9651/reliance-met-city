@@ -5,8 +5,15 @@
 </IfModule>
 # php -- END cPanel-generated handler, do not edit
 
-# Rewrite Rules for Extensionless URLs
 RewriteEngine On
+
+# 301 Permanent Redirects for Deleted Blogs
+RewriteRule ^who-is-the-owner-of-reliance-met-city(\.php)?$ https://reliancecityplots.in/blog/ [R=301,L]
+RewriteRule ^what-is-the-plot-rate-in-reliance-met-city-jhajjar(\.php)?$ https://reliancecityplots.in/blog/ [R=301,L]
+RewriteRule ^companies-in-reliance-met-city(\.php)?$ https://reliancecityplots.in/blog/ [R=301,L]
+RewriteRule ^how-much-land-is-in-reliance-met-city(\.php)?$ https://reliancecityplots.in/blog/ [R=301,L]
+
+# Rewrite Rules for Extensionless URLs
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^([^\.]+)$ $1.php [NC,L]
