@@ -9,7 +9,7 @@
     <title>Reliance MET City Jhajjar | Residential Plots</title>
     <link rel="icon" type="image/webp" href="assets/icon.jpg">
     <meta name="description"
-        content="Discover premium residential, industrial, and commercial plots at Reliance MET City Jhajjar. Developed by Reliance Industries Limited, this futuristic Model Economic Township features world-class infrastructure and seamless connectivity in Delhi NCR.">
+        content="Discover premium residential, industrial & commercial plots at Reliance MET City Jhajjar by Reliance Industries. RERA approved freehold land in Delhi NCR.">
     <meta name="keywords"
         content="Reliance MET City Jhajjar, MET City Residential Plots, Model Economic Township Jhajjar, Reliance Smart City Haryana, MET City Industrial Plots, Commercial Plots Jhajjar, Reliance MET Plots Price">
         
@@ -18,7 +18,7 @@
 
     <!-- Open Graph Tags -->
     <meta property="og:title" content="Reliance MET City Jhajjar | Residential Plots">
-    <meta property="og:description" content="Discover premium residential, industrial, and commercial plots at Reliance MET City Jhajjar. Developed by Reliance Industries Limited, this futuristic Model Economic Township features world-class infrastructure and seamless connectivity in Delhi NCR.">
+    <meta property="og:description" content="Discover premium residential, industrial & commercial plots at Reliance MET City Jhajjar by Reliance Industries. RERA approved freehold land in Delhi NCR.">
     <meta property="og:image" content="assets/banner.webp">
     <meta property="og:url" content="https://reliancecityplots.in/">
     <meta name="google-site-verification" content="G4PnZ-tQQFqp-QvHnErgeNsdiZrZwAgk8YY_Rxeut0A" />
