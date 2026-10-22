@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- SEO Meta Tags -->
-    <title>Reliance MET City Jhajjar | Residential Plots</title>
+    <title>Reliance MET City Jhajjar | Residential Plots- 7450053004</title>
     <link rel="icon" type="image/webp" href="assets/icon.jpg">
     <meta name="description"
         content="Discover premium residential, industrial & commercial plots at Reliance MET City Jhajjar by Reliance Industries. RERA approved freehold land in Delhi NCR.">
@@ -17,7 +17,7 @@
     <link rel="canonical" href="https://reliancecityplots.in/" />
 
     <!-- Open Graph Tags -->
-    <meta property="og:title" content="Reliance MET City Jhajjar | Residential Plots">
+    <meta property="og:title" content="Reliance MET City Jhajjar | Residential Plots- 7450053004">
     <meta property="og:description" content="Discover premium residential, industrial & commercial plots at Reliance MET City Jhajjar by Reliance Industries. RERA approved freehold land in Delhi NCR.">
     <meta property="og:image" content="assets/banner.webp">
     <meta property="og:url" content="https://reliancecityplots.in/">
