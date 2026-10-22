@@ -14,7 +14,7 @@ $meta_description = "Is it good to invest in Reliance MET City? Explore ROI pote
     <meta name="description" content="<?php echo $meta_description; ?>">
     <meta name="keywords" content="Reliance Met City, Residential Plots, Industrial Plots, Commercial Plots, invest in Reliance MET City, Jhajjar real estate, KMP Expressway plots">
     <meta name="author" content="Reliance MET City Advisory Team">
-    <link rel="canonical" href="https://reliancemetplots.com/is-it-good-to-invest-in-reliance-met-city">
+    <link rel="canonical" href="https://reliancecityplots.in/is-it-good-to-invest-in-reliance-met-city">
     
     <link rel="stylesheet" href="style.css?v=2.1">
     <link rel="stylesheet" href="responsive.css?v=2.1">

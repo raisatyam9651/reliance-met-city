@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://reliancemetplots.com/sitemap.xml
+Sitemap: https://reliancecityplots.in/sitemap.xml
