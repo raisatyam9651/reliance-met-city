@@ -13,8 +13,8 @@ $meta_description = "Thank you for contacting us. Our real estate experts will g
     <link rel="icon" type="image/webp" href="assets/icon.jpg">
     <meta name="description" content="<?php echo $meta_description; ?>">
     
-    <link rel="stylesheet" href="style.css?v=2.1">
-    <link rel="stylesheet" href="responsive.css?v=2.1">
+    <link rel="stylesheet" href="style.css?v=3.0">
+    <link rel="stylesheet" href="responsive.css?v=3.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <style>
         .thankyou-hero {
