@@ -14,13 +14,13 @@
         content="Reliance MET City Jhajjar, MET City Residential Plots, Model Economic Township Jhajjar, Reliance Smart City Haryana, MET City Industrial Plots, Commercial Plots Jhajjar, Reliance MET Plots Price">
         
     <meta name="robots" content="index, follow">   
-    <link rel="canonical" href="https://reliancemetplots.com/" />
+    <link rel="canonical" href="https://reliancecityplots.in/" />
 
     <!-- Open Graph Tags -->
     <meta property="og:title" content="Reliance MET City Jhajjar | Residential Plots">
     <meta property="og:description" content="Discover premium residential, industrial, and commercial plots at Reliance MET City Jhajjar. Developed by Reliance Industries Limited, this futuristic Model Economic Township features world-class infrastructure and seamless connectivity in Delhi NCR.">
     <meta property="og:image" content="assets/banner.webp">
-    <meta property="og:url" content="https://reliancemetplots.com/">
+    <meta property="og:url" content="https://reliancecityplots.in/">
     <meta name="google-site-verification" content="G4PnZ-tQQFqp-QvHnErgeNsdiZrZwAgk8YY_Rxeut0A" />
     <meta name="google-site-verification" content="lIS0py39Yn5__tVNYluETmntFnj1ZYgLjQREWQG0-7o" />
 
@@ -30,9 +30,9 @@
   "@context": "https://schema.org",
   "@type": "RealEstateAgent",
   "name": "Reliance MET City",
-  "image": "https://reliancemetplots.com/assets/logo.webp",
-  "@id": "https://reliancemetplots.com/#realestateagent",
-  "url": "https://reliancemetplots.com/",
+  "image": "https://reliancecityplots.in/assets/logo.webp",
+  "@id": "https://reliancecityplots.in/#realestateagent",
+  "url": "https://reliancecityplots.in/",
   "telephone": "+91 7450053004",
   "address": {
     "@type": "PostalAddress",
@@ -69,7 +69,7 @@
   "@context": "https://schema.org/",
   "@type": "WebSite",
   "name": "Reliance MET City Jhajjar",
-  "url": "https://reliancemetplots.com/"
+  "url": "https://reliancecityplots.in/"
 }
 </script>
 
@@ -169,7 +169,7 @@
                         method="POST">
                         <!-- FormSubmit Settings -->
                         <input type="hidden" name="_subject" value="New Inquiry - Met Jhajjar Plots">
-                        <input type="hidden" name="_next" value="https://reliancemetplots.com/thank-you">
+                        <input type="hidden" name="_next" value="https://reliancecityplots.in/thank-you">
                         <input type="hidden" name="_template" value="table">
                         <input type="hidden" name="_captcha" value="false">
 
@@ -1113,7 +1113,7 @@
                         <form class="modern-form-ui" action="send-mail.php" method="POST">
                             <!-- FormSubmit Settings -->
                             <input type="hidden" name="_subject" value="New Inquiry: Home Contact Form">
-                        <input type="hidden" name="_next" value="https://reliancemetplots.com/thank-you">
+                        <input type="hidden" name="_next" value="https://reliancecityplots.in/thank-you">
                             <input type="hidden" name="_template" value="table">
                             <input type="text" name="_honey" style="display:none">
 

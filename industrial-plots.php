@@ -164,7 +164,7 @@
                         <form class="modern-form-ui" action="send-mail.php" method="POST">
                             <!-- FormSubmit Settings -->
                             <input type="hidden" name="_subject" value="New Inquiry: Industrial Plots Page">
-                        <input type="hidden" name="_next" value="https://reliancemetplots.com/thank-you">
+                        <input type="hidden" name="_next" value="https://reliancecityplots.in/thank-you">
                             <input type="hidden" name="_template" value="table">
                             <input type="text" name="_honey" style="display:none">
 

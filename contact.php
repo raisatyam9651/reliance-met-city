@@ -57,7 +57,7 @@
                     <form class="luxury-contact-form" action="send-mail.php" method="POST">
                         <!-- FormSubmit Settings -->
                         <input type="hidden" name="_subject" value="New Inquiry: Contact Page Form">
-                        <input type="hidden" name="_next" value="https://reliancemetplots.com/thank-you">
+                        <input type="hidden" name="_next" value="https://reliancecityplots.in/thank-you">
                         <input type="hidden" name="_template" value="table">
                         <input type="text" name="_honey" style="display:none">
 
