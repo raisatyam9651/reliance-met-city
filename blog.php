@@ -126,12 +126,26 @@
         </section>
 
         <!-- Blog Grid -->
-        <section class="bg-light" style="padding: 100px 0;">
-            <div class="container text-center">
-                <div style="max-width: 600px; margin: 0 auto; padding: 40px 20px;">
-                    <i class="far fa-newspaper" style="font-size: 3.5rem; color: var(--royal-gold, #d4af37); margin-bottom: 20px; display: inline-block;"></i>
-                    <h2 style="font-size: 1.8rem; margin-bottom: 12px; color: #222;">No Blogs Available</h2>
-                    <p style="color: #666; font-size: 1.05rem; line-height: 1.6;">There are currently no blog articles published. Please check back later for updates and insights.</p>
+        <section class="bg-light" style="padding: 70px 0 100px;">
+            <div class="container">
+                <div class="blog-grid" style="max-width: 480px; margin: 0 auto;">
+                    
+                    <!-- Article: Is it good to invest in Reliance MET City -->
+                    <article class="blog-card" onclick="window.location.href='is-it-good-to-invest-in-reliance-met-city';">
+                        <div class="blog-img-wrapper">
+                            <img src="assets/reliance city.webp" alt="Is it good to invest in Reliance MET City?" loading="lazy">
+                        </div>
+                        <div class="blog-content">
+                            <div class="blog-meta">
+                                <span class="blog-tag">Investment Guide</span>
+                                <span>21 October, 2026</span>
+                            </div>
+                            <h2 class="blog-title"><a href="is-it-good-to-invest-in-reliance-met-city" style="color: inherit; text-decoration: none;">Is it good to invest in Reliance MET City?</a></h2>
+                            <p class="blog-excerpt">Comprehensive financial analysis exploring ROI potential, industrial growth, KMP connectivity, and buyer considerations for long-term real estate returns.</p>
+                            <a href="is-it-good-to-invest-in-reliance-met-city" class="read-more">Read Full Article <i class="fas fa-arrow-right"></i></a>
+                        </div>
+                    </article>
+
                 </div>
             </div>
         </section>
