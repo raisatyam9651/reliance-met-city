@@ -10,6 +10,7 @@
     <link rel="icon" type="image/webp" href="assets/icon.jpg">
     <meta name="description"
         content="Get in touch with the Model Economic Township experts. Inquire about residential, industrial, and commercial plots.">
+    <link rel="canonical" href="https://reliancecityplots.in/contact" />
 
     <link rel="stylesheet" href="style.css?v=3.0">
     <link rel="stylesheet" href="responsive.css?v=3.0">

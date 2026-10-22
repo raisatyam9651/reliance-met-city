@@ -10,6 +10,7 @@
     <link rel="icon" type="image/webp" href="assets/icon.jpg">
     <meta name="description"
         content="Scale your business at Model Economic Township with premium industrial plots. Strategically located near KMP Expressway with world-class infrastructure.">
+    <link rel="canonical" href="https://reliancecityplots.in/industrial-plots" />
     
     <link rel="stylesheet" href="style.css?v=3.0">
     <link rel="stylesheet" href="responsive.css?v=3.0">

@@ -10,6 +10,7 @@
     <link rel="icon" type="image/webp" href="assets/icon.jpg">
     <meta name="description"
         content="Learn about Model Economic Township, a world-class integrated economic township. Discover a hub of industrial, residential, and commercial excellence.">
+    <link rel="canonical" href="https://reliancecityplots.in/about-us" />
     
     <link rel="stylesheet" href="style.css?v=3.0">
     <link rel="stylesheet" href="responsive.css?v=3.0">

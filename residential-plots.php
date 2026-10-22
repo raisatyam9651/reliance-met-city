@@ -10,6 +10,7 @@
     <link rel="icon" type="image/webp" href="assets/icon.jpg">
     <meta name="description"
         content="Explore premium residential plots at Model Economic Township. Experience a luxury lifestyle in a gated community with world-class amenities.">
+    <link rel="canonical" href="https://reliancecityplots.in/residential-plots" />
     
     <link rel="stylesheet" href="style.css?v=3.0">
     <link rel="stylesheet" href="responsive.css?v=3.0">
